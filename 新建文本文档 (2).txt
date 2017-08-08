@@ -1,1 +1,0 @@
-mvn org.apache.maven.plugins:maven-archetype-plugin:3.3.6:generate  -D archetypeGroupId=hap -D archetypeArtifactId=hap-webapp-archetype -D archetypeVersion=3.1-SNAPSHOT -D groupId=hbi -D artifactId=HbiParent -D package=hbi.core -D archetypeRepository=http://nexus.saas.hand-china.com/content/repositories/rdcsnapshot 
